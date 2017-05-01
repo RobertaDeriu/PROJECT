@@ -11,8 +11,18 @@
         Type[String] Etichetta dell'oggetto
 1. #### Età:
         Type[int] Età dell'oggetto
+1. #### Sesso:
+        Type[int] Maschio o Femmina
+1. #### Carattere:
+        Type[ ? ] A seconda sel sesso:
+        Maschio:
+            Moderati
+            Avventurieri
+        Femmine:
+            Prudenti
+            Spregiudicate
 1. #### Figli
-        Type[ArrayList] Collezione di figli di tipo Pinguino
+        Type[ArrayList] Collezione di figli di tipo Pinguino        
 1. #### PremioRiproduzione:
         Type[ int? ] Premio della riproduzione
 1. #### Costo:
