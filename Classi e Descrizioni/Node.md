@@ -6,13 +6,12 @@
     che consentono di collegare this a tutti i suoi relativi.
     
 ## Campi:
-
+1. #### ID:
+        Type[static int] ID univoco autoincrementato alla creazione di ogni nodo
 1. #### Pinguino:
         Type[Pinguino] Oggetto Pinguino associato a questo nodo
-1. #### Nome:
-        Type[String] Riprende il nome dell'oggetto Pinguino associato
-1. #### Figli
-        Type[ArrayList] Collezione di figli di tipo Pinguino
+1. #### Adiacenti
+        Type[ArrayList<Pinguino>] Collezione di pinguini adiacenti
         
 #
         
