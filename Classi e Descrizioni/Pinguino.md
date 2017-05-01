@@ -9,9 +9,17 @@
 
 1. #### Nome:
         Type[String] Etichetta dell'oggetto
+1. #### Età:
+        Type[int] Età dell'oggetto
 1. #### Figli
-        Type[ArrayList]Collezione di figli di tipo Pinguino
-        
+        Type[ArrayList] Collezione di figli di tipo Pinguino
+1. #### PremioRiproduzione:
+        Type[ int? ] Premio della riproduzione
+1. #### Costo:
+        Type[ int? ] Costo per la crescita dei figli
+1. #### CostoCorteggiamento:
+        Type[ int? ] Costo per il corteggiamento
+
 #
         
 ## Metodi
