@@ -1,4 +1,4 @@
-# AlberoGenealogico
+# Graph
 
 ## Descrizione:
     Classe rappresentante un grafo contenente come nodi tutti gli esseri
@@ -8,7 +8,7 @@
 ## Campi:
 
 1. #### Nodi:
-        Type[ArrayList] Collezioni di oggetti di tipo Node       
+        Type[ArrayList<Node>] Collezioni di oggetti di tipo Node       
 #
         
 ## Metodi

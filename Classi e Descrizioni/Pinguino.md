@@ -22,15 +22,11 @@
             Prudenti
             Spregiudicate
 1. #### Figli
-        Type[ArrayList] Collezione di figli di tipo Pinguino        
-1. #### PremioRiproduzione:
-        Type[ int? ] Premio della riproduzione
-1. #### Costo:
-        Type[ int? ] Costo per la crescita dei figli
-1. #### CostoCorteggiamento:
-        Type[ int? ] Costo per il corteggiamento
+        Type[ArrayList<Pinguino>] Collezione di figli di tipo Pinguino        
+1. #### Felicità:
+        Type[int] Specifica lo stato di felicità di un pinguino
 
 #
         
 ## Metodi
-    Qui andrà la lista di metodi di ogni pinguino
+
